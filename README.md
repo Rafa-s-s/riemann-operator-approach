@@ -33,7 +33,9 @@ for all non-trivial zeros of the Riemann zeta function.
 ## Repository Structure
 
 paper/
+
 ├── riemann-operator-approach-en.pdf # Main version (English)
+
 └── riemann-operator-approach-pt.pdf # Portuguese version
 
 notes/ # Additional notes (future work)
